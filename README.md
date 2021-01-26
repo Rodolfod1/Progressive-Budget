@@ -52,11 +52,11 @@ I have used the MIT license for this application see repository documentation.
 This can be manually tested or using any test tool
 
 ## Code Screenshots:
-- Mongoose schema and calculation for total duration 
-![Mongoose](public/Assets/Img/MongooseSchema.png)<br>
-- Api and HTML routes:<br>
-![APIroute](public/Assets/Img/ApiRoutes.png)
-![HtmlRoute](public/Assets/Img/htmlRoutes.png)  
+- Service worker configuration example 
+![ServiceWorker](public/assets/img/erviceWorkerimg.png)<br>
+- IndexDB Configuration for offline db handling:<br>
+![IndexDB](public/assets/img/IndexDBImg.png)
+ 
 
 
 ## In case of questions:

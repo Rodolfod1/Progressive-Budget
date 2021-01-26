@@ -3,11 +3,11 @@
 //on 17-NOSQl class .. RDR
 
 let db;
-// create a new db request for a "budget" database.
+// "budget" database will be used while the internet service is out.
 const request = indexedDB.open("budget", 1);
 
 request.onupgradeneeded = function(event) {
-   // create object store called "pending" and set autoIncrement to true
+   // the "pending" object will store the values and set autoIncrement to true
   const db = event.target.result;
   db.createObjectStore("pending", { autoIncrement: true });
 };
