@@ -53,7 +53,7 @@ This can be manually tested or using any test tool
 
 ## Code Screenshots:
 - Service worker configuration example 
-![ServiceWorker](public/assets/img/erviceWorkerimg.png)<br>
+![ServiceWorker](public/assets/img/ServiceWorkerImg.png)<br>
 - IndexDB Configuration for offline db handling:<br>
 ![IndexDB](public/assets/img/IndexDBImg.png)
  
